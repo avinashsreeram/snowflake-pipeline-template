@@ -66,5 +66,5 @@ Suggested relationships:
 
 ## Author
 
-Built by a data engineer passionate about modular pipelines, layered architecture, and clean BI handoffs.
+Built by a Avinash passionate about modular pipelines, layered architecture, and clean BI handoffs.
 
